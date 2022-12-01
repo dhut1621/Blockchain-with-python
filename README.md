@@ -27,6 +27,6 @@ A python app that demostrates a blockchain-based ledger system with a web-based 
 
 ## Contributors
 
-[![](https://github.com/woodedlawn.png?size=50)](https://github.com/woodedlawn)
+David Hutsell
 
 ---
